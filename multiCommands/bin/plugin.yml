@@ -1,0 +1,14 @@
+name: monkeyMultiCommand
+author: KingMonkeyy
+main: com.stinkymonkey.monkey.main
+version: 1.16.3
+description: Make A Chain Of Command
+api-version: 1.13
+
+commands:
+   multicommand:
+      description: "EXECUTE MULTI COMMAND"
+permissions:
+   multiCmd.use:
+      description: "use multi command"
+      default: op
